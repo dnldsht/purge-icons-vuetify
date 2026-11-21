@@ -15,6 +15,6 @@
   },
   "devDependencies": {
     "@nuxtjs/vuetify": "^1.11.3",
-    "nuxt-purge-icons-module": "^0.6.0"
+    "nuxt-purge-icons-module": "^0.10.0"
   }
 }
