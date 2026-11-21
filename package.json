@@ -9,7 +9,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
-    "@iconify/iconify": "^2.0.0-rc.6",
+    "@iconify/iconify": "^3.0.0",
     "core-js": "^3.8.3",
     "nuxt": "^2.14.12"
   },
